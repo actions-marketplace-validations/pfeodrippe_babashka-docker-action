@@ -1,4 +1,4 @@
-name: Babashka (Clojure)
+name: BabashkaForkPF (Clojure)
 description: Run babashka script or babashka shell command(s) on GitHub Actions
 
 author: Tzafrir Ben-Ami
